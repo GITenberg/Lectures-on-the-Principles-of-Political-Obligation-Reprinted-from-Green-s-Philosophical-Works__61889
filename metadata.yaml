@@ -1,5 +1,5 @@
 _repo: Lectures-on-the-Principles-of-Political-Obligation-Reprinted-from-Green-s-Philosophical-Works__61889
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Bosanquet, Bernard
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '43732'
     url: http://www.gutenberg.org/2009/agents/43732
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Bosanquet_(philosopher)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Thomas Hill
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51661
     wikipedia: https://en.wikipedia.org/wiki/R._L._Nettleship
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61889#Lectures-on-the-Principles-of-Political-Obligation-Reprinted-from-Green-s-Philosophical-Works_
 gutenberg_issued: '2020-04-22'
 gutenberg_type: Text
 identifiers:
